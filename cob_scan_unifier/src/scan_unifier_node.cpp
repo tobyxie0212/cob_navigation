@@ -56,7 +56,7 @@
 *
 ****************************************************************/
 
-#include <cob_scan_unifier/scan_unifier_node.h>
+#include <scan_unifier_node.h>
 
 // constructor
 scan_unifier_node::scan_unifier_node()
